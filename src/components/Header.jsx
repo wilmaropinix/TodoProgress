@@ -14,25 +14,22 @@ const Header = () => {
         <img className="profileImg" src={profileImg} alt="userImg" />
         <div className="welcome">
           <p>
-            Welcome!
+            Bienvenido!
             <img src={waveImg} alt="waveImg" />
           </p>
-          <h2>Alejandro Chavez</h2>
+          <h2>Obed BM</h2>
         </div>
       </div>
 
       <nav>
-        <a target="_blank" href="https://alejandroch1202.github.io/">
+        <a target="_blank" href="#">
           <img src={websiteImg} alt="website" />
         </a>
-        <a target="_blank" href="https://github.com/alejandroch1202">
+        <a target="_blank" href="#">
           <img src={githubImg} alt="github" />
         </a>
-        <a target="_blank" href="https://www.linkedin.com/in/alejandroch/">
+        <a target="_blank" href="#">
           <img src={linkedinImg} alt="linkedin" />
-        </a>
-        <a target="_blank" href="https://twitter.com/alejandroch1202">
-          <img src={twitterImg} alt="twitter" />
         </a>
       </nav>
     </header>

@@ -9,7 +9,7 @@ const Footer = () => {
       <span>
         <img src={heartImg} alt="love" />
       </span>
-      by Alejandro Chavez
+      by ObedDev
     </footer>
   );
 };
